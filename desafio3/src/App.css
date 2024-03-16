@@ -46,6 +46,11 @@
   display: flex;
   justify-content: start;
 }
+.formulario button{
+  margin-bottom: .75rem;
+  color: white;
+  background-color: blue;
+}
 
 
 

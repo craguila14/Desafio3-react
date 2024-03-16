@@ -51,6 +51,12 @@
   color: white;
   background-color: blue;
 }
+.buscador{
+  display: flex;
+  justify-content: start;
+  margin-top: .75rem;
+  margin-bottom: .75rem;
+}
 
 
 
